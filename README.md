@@ -1,5 +1,5 @@
 # Role Player Game Book
-
+(TESTE)
 Esse código é a base de um livro jogo. As interações básicas já foram implementadas e o que está faltando é definir a história.
 
 # Instruções
